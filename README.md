@@ -1,7 +1,7 @@
 ### Hello word! My name is Pedro 👋🏻😁
 
 # 💫 About Me:
-🌍 I am currently located in Madrid 🇪🇸.<br> 🧠 I am a cross-platform application and software developer.<br> 💻 I have experience in programming languages and have applied them in several projects.
+🌍 I am currently located in Madrid 🇪🇸.<br> 🧠 I am a cross-platform application and software developer.<br> 👨🏻‍💻 I have experience in programming languages and have applied them in several projects.
 
 
 ## 🌐 Socials:
