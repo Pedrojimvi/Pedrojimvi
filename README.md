@@ -3,8 +3,6 @@
 # 💫 About Me:
 📌 I am currently located in Madrid 🇪🇸.<br> ☝🏻🤓 I am a cross-platform application and software developer.<br> 👨🏻‍💻 I have experience in programming languages and have applied them in several projects.
 
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pedrojimvi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/pedrojimvi?trk=profile-badge">Pedro Jiménez Villarejo</a></div>
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Pedrojimvi#0459) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Pedrojimvi) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Pedrojimvi) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojv1030@gmail.com)
 
