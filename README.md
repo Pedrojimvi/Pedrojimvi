@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrojimvi) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrojv1030@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Pedrojimvi) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Pedrojimvi) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Pedrojimvi#0459) 
 
 # 💻 Tech Stack:
-![SAP](https://camo.githubusercontent.com/db8598eb2c3e05377b8a44cd09d460d66b9e479c63241658492a3a0128f679b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5341502d3046413644383f7374796c653d666f722d7468652d6261646765266c6f676f3d736170266c6f676f436f6c6f723d7768697465) Knowledge:
+![SAP](https://camo.githubusercontent.com/db8598eb2c3e05377b8a44cd09d460d66b9e479c63241658492a3a0128f679b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5341502d3046413644383f7374796c653d666f722d7468652d6261646765266c6f676f3d736170266c6f676f436f6c6f723d7768697465):
 <br><br>𝗦𝗔𝗣 𝗚𝗥𝗖 𝗔𝗰𝗰𝗲𝘀𝘀 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 (𝗔𝗥𝗔, 𝗔𝗥𝗠, 𝗕𝗥𝗠 𝗮𝗻𝗱 𝗘𝗔𝗠 𝗺𝗼𝗱𝘂𝗹𝗲𝘀)
 <br>𝗦𝗔𝗣 𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝘀𝘂𝗽𝗽𝗼𝗿𝘁 𝗮𝗻𝗱 𝗦𝗲𝗴𝗿𝗲𝗴𝗮𝘁𝗶𝗼𝗻 𝗼𝗳 𝗗𝘂𝘁𝗶𝗲𝘀 (𝗦𝗼𝗗) 𝗿𝗶𝘀𝗸 𝗿𝗲𝗺𝗲𝗱𝗶𝗮𝘁𝗶𝗼𝗻
 <br>𝗔𝗕𝗔𝗣 𝗮𝗻𝗱 𝗦𝗔𝗣 𝗙𝗶𝗼𝗿𝗶 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
