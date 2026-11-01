@@ -24,4 +24,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrojimvi&theme=darcula&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pedrojimvi&theme=matrix)
+![](https://github-trophies.vercel.app/?username=Pedrojimvi&theme=matrix)
+
+![](https://komarev.com/ghpvc/?username=Pedrojimvi&color=lightgrey)
